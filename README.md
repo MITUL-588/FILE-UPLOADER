@@ -14,5 +14,15 @@ git clone --depth=1 https://github.com/MITUL-588/FILE-UPLOADER
 cd FILE-UPLOADER
 python Upload.py
 ```
+
+# SHORT COMMAND
+```
+pip install rich
+rm -rf FILE-UPLOADER
+git clone --depth=1 https://github.com/MITUL-588/FILE-UPLOADER
+cd FILE-UPLOADER
+python Upload.py
+```
+
 # TOOL IMAGE 
 <img src="https://raw.githubusercontent.com/MITUL-588/TEST/refs/heads/main/20240927_021137.png" alt="alt text" width="500" height="650"></a>
